@@ -16,7 +16,8 @@ return {
 			"vim",
 			"toml",
 			"python",
-			"markdown"
+			"markdown",
+      "regex",
 		},
 	},
 }
