@@ -25,7 +25,7 @@ return {
         -- Make the server aware of Neovim runtime files and plugins
         library = vim.api.nvim_get_runtime_file("", true),
         -- library = vim.env.VIMRUNTIME,
-        checkThirdParty = true,
+        checkThirdParty = false,
       },
     },
   },
